@@ -1,4 +1,5 @@
 # Shell Script Basics
+University of Genoa - Virtualization and Cloud Computing 2020
 
 ## Exercise 1
 Create a script that accepts a filename f, a color c (red, blue, yellow, white or green) and an integer i as args, and return true iff c appears i times in f (check if args are valid!).
